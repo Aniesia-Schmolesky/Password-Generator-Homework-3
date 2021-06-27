@@ -1,6 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-var checkbox = document.getElementById("checkbox");
+// var checkbox = document.getElementById("checkbox");
 
 // Write password to the #password input
 function writePassword() {
