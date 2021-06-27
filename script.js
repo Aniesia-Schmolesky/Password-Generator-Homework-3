@@ -1,5 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
+var checkbox = document.getElementById("checkbox");
 
 // Write password to the #password input
 function writePassword() {
@@ -36,6 +37,11 @@ function generatePassword(characters) {
   return value;
 
   
+}
+
+function addEventListener(checkbox) {
+  if checkbox("click", )
+
 }
 
 
