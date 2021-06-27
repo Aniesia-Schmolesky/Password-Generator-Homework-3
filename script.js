@@ -39,10 +39,10 @@ function generatePassword(characters) {
   
 }
 
-function addEventListener(checkbox) {
-  if checkbox("click", )
+// // function addEventListener(checkbox) {
+//   if checkbox("click", )
 
-}
+// }
 
 
 
